@@ -3,7 +3,10 @@
   <Profiles />
   <Settings>
     <Setting Name="TaskName" Type="System.String" Scope="User">
-      <Value Profile="(Default)">TEST</Value>
+      <Value Profile="(Default)">ddpprt,Adobe Acrobat Update Task</Value>
+    </Setting>
+    <Setting Name="Output" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Downloads</Value>
     </Setting>
   </Settings>
 </SettingsFile>
